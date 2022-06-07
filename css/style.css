@@ -14,7 +14,7 @@
   --bs-orange: #fd7e14;
   --bs-yellow: #ffc107;
   --bs-green: #198754;
-  --bs-teal: #d757b0;
+  --bs-teal: #dd99ff;
   --bs-cyan: #d076a3;
   --bs-white: #fff;
   --bs-gray: #6c757d;
@@ -28,7 +28,7 @@
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
-  --bs-primary: #d757b0;
+  --bs-primary: #dd99ff;
   --bs-secondary: #d076a3;
   --bs-success: #198754;
   --bs-info: #d076a3;
@@ -228,11 +228,11 @@ sup {
 }
 
 a {
-  color: #d757b0;
+  color: #dd99ff;
   text-decoration: underline;
 }
 a:hover {
-  color: #ac468d;
+  color: #dd99ff;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -265,7 +265,7 @@ pre code {
 
 code {
   font-size: 0.875em;
-  color: #d63384;
+  color: #dd99ff;
   word-wrap: break-word;
 }
 a > code {
